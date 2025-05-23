@@ -1,0 +1,6 @@
+{
+    "C_Cpp.default.compilerPath": "d:\\VS_Code\\CPP\\hello.cpp",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
